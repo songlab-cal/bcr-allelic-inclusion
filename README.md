@@ -3,6 +3,8 @@ Model code and data for paper "Learning antibody sequence constraints from allel
 
 We recommend using a GPU. Allelic inclusion models train on a GPU in a few minutes, and memory requirements are low.
 
+Training data for mouse models is not included on GitHub but is available on Zenodo at https://zenodo.org/records/13948324.
+
 Required Python packages and version used:
 - torch (2.2.1)
 - numpy (1.26.4)
