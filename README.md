@@ -1,5 +1,6 @@
 # bcr-allelic-inclusion
-Model code and data for paper "Learning antibody sequence constraints from allelic inclusion", Jagota et. al., 2024.
+Model code and data for paper "Learning antibody sequence constraints from allelic inclusion", Jagota et. al., 2024.  BioRxiv preprint:
+https://www.biorxiv.org/content/10.1101/2024.10.22.619760v1
 
 We recommend using a GPU. Allelic inclusion models train on a GPU in a few minutes, and memory requirements are low.
 
